@@ -15,4 +15,8 @@ Laravel is a free, open source PHP web application framework. It is used to deve
 
 I have made this project based on laravel to show the ecommerce site 
 
+Get the complete zippped file here
+https://jumpshare.com/v/6fn3XXDVDf91zXbexOfy
+
+
 THe homepage
